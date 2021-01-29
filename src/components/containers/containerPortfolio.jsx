@@ -15,7 +15,7 @@ function ContainerPortfolio() {
         
         
         <br/>
-        <a href="https://github.com/jks2090?tab=repositories"> Link to my GitHub repository</a>
+        <a href="https://github.com/jks2090?tab=repositories"> Link to my GitHub page</a>
         <br/>
         
         
@@ -25,8 +25,17 @@ function ContainerPortfolio() {
         
         
         <br/>
-        <a href="https://jks2090.github.io/Senior-Travel-Covid-Care/"> Link to Senior Travel Covid Care deployed site</a>
+        <a href="https://github.com/jks2090/WeatherAPI"> Link to Weather API repo </a>
         <br/>
+
+        <br/>
+        <a href="https://github.com/jks2090/JavaPasswordGenerator"> Java Password Generator link</a>
+        <br/>
+
+        <br/>
+        <a href="https://github.com/jks2090/Unit-18-BudgetTracker"> Link to a budget tracker app</a>
+        <br/>
+        
         
         
         <br/>

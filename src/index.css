@@ -1,3 +1,6 @@
 body{
-  background-color: aquamarine;
+  background-image:url(./cool-background.png);
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
 }
