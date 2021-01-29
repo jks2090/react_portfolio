@@ -1,10 +1,11 @@
 import React from 'react'
 
+import ContainerPortfolio from "../../components/containers/containerPortfolio"
 function Portfolio() {
     return (
        
         <div>
-       porfolio
+       <ContainerPortfolio/>
        </div>
     )
 }
